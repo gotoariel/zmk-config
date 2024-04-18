@@ -20,10 +20,6 @@
     chain-length = <35>;
 };
 
-&left_encoder {
-    resolution = <2>;
-};
-
 / {
 
    // Activate ADJUST layer by pressing raise and lower
